@@ -8,4 +8,14 @@ API consuming SpaceX APIs of their History and Payloads and displaying them in a
 ### How the Table look like after fetching the above Json 
 - #### History
 
+    - <img src="Screenshots/History1.png" width="750" height="380"/>
+    - <img src="Screenshots/History2.png" width="750" height="380"/>
+- #### Payload
+    - <img src="Screenshots/Payload1.png" width="750" height="380"/>
+    - <img src="Screenshots/Payload2.png" width="750" height="380"/>
 
+### Technologies Used
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
